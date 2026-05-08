@@ -46,3 +46,6 @@ com.github.rafostar.Clapper                    # Clapper
 # hu.kramo.Cartridges                          # Cartridges
 # com.github.Matoking.protontricks             # ProtonTricks
 # net.davidotek.pupgui2                        # ProtonUp
+
+# ------------------------------------------- // Security
+com.bitwarden.desktop
