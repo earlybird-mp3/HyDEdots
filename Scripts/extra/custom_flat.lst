@@ -47,5 +47,6 @@ com.github.rafostar.Clapper                    # Clapper
 # com.github.Matoking.protontricks             # ProtonTricks
 # net.davidotek.pupgui2                        # ProtonUp
 
-# ------------------------------------------- // Security
+# ------------------------------------------- // My Packages
 com.bitwarden.desktop
+org.localsend.localsend_app
