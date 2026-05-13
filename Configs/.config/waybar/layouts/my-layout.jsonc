@@ -16,7 +16,7 @@
         "group/pill#left1",
         "group/pill#left2"
     ],
-    "group/pill#left1": {
+    "group/pill#left2": {
         "orientation": "inherit",
         "modules": [
             "cpu",
@@ -25,7 +25,7 @@
             "custom/gpuinfo"
         ]
     },
-    "group/pill#left2": {
+    "group/pill#right4": {
         "orientation": "inherit",
         "modules": [
             "idle_inhibitor",
@@ -51,27 +51,25 @@
         "orientation": "inherit",
         "modules": [
             "backlight",
-            "network",
             "pulseaudio",
             "pulseaudio#microphone",
-            "custom/updates",
-            "custom/keybindhint"
+            "custom/updates"
         ]
     },
     "group/pill#right2": {
         "orientation": "inherit",
         "modules": [
+	    "network",
+	    "tray",
             "privacy",
-            "tray",
             "battery"
         ]
     },
-    "group/pill#right4": {
+    "group/pill#left1": {
         "orientation": "inherit",
         "modules": [
-            "custom/cliphist",
-            "custom/hyde-menu",
-            "custom/power"
+	    "custom/power",
+            "custom/cliphist"
         ]
     }
 }
