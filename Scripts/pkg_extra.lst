@@ -67,3 +67,6 @@ swayosd-git                                             #A GTK based on screen d
 
 # --------------------------------------------------- // VPN
 tailscale
+
+# --------------------------------------------------- // Audio
+sof-firmware
